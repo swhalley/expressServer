@@ -2,6 +2,7 @@
 Simple HTTP server for testing. Uses express and node.
 
 ##Usage
+npm install
 node startServer.js <port || 3000>
 
 ##To stop server
