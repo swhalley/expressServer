@@ -1,0 +1,8 @@
+{
+  "name" : 'expressStaticServer',
+  "description" : 'A static serving server for files.',
+  "version" : "1.0.0",
+  "dependencies" : {
+    "express" : "4.x.x"
+  }
+}
